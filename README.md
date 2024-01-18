@@ -9,4 +9,4 @@
 
 ## Live Demo
 
-[https://mahdia001.github.io/odin-recipes/]()
+[click here to see a live demo of the recipes website](https://mahdia001.github.io/odin-recipes/)
